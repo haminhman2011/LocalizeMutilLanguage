@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalizeMutilLanguage</string>
+    <string name="dangnhap">Login</string>
+    <string name="thongtin">Infor</string>
+    <string name="dangky">Register</string>
+    <string name="phanmem">Software</string>
+    <string name="vietnam">Việt nam</string>
+    <string name="english">English</string>
+    <string name="test">infor</string>
+</resources>

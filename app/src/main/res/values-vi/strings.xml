@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LocalizeMutilLanguage</string>
+    <string name="dangnhap">Dang nhập</string>
+    <string name="thongtin">Thong tin</string>
+    <string name="dangky">Đăng ký</string>
+    <string name="phanmem">phần mềm</string>
+    <string name="vietnam">Việt nam</string>
+    <string name="english">English</string>
+    <string name="test">thông tin</string>
+</resources>
